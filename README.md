@@ -87,3 +87,4 @@ python manage.py migrate
 
 # 6. Start the server
 python manage.py runserver
+.
